@@ -1,0 +1,28 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: grey;
+    
+   
+    overflow:hidden;
+    
+}
+
+section{
+    
+    display:grid;
+    grid-template-columns: repeat(100, 1fr);
+    grid-template-rows: repeat(100, 1fr);
+    margin:0 auto;
+    width:80%;
+    height:80%;
+    
+    background-image:url(https://media.istockphoto.com/id/1183321688/fr/photo/terrain-de-football-den-haut-illustration-2d.jpg?s=612x612&w=is&k=20&c=jpJkbeKFKatFbasGNhlhd3Z2F0TdRbproMQcEf8YjHw=);
+    background-repeat:no-repeat;
+    background-size:100% auto;
+}
+div{
+ 
+    
+  
+}
